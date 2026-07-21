@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!Heroine</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- GSAP Animation Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center p-4 overflow-x-hidden">
+
+    <!-- Background Elements / Floating Hearts Container -->
+    <div id="particles" class="absolute inset-0 pointer-events-none"></div>
+
+    <main class="max-w-xl w-full bg-slate-800/50 backdrop-blur-md border border-slate-700 rounded-2xl p-8 shadow-2xl text-center space-y-8 relative z-10">
+        
+        <!-- Section 1: Intro -->
+        <div class="space-y-4">
+            <div class="text-4xl">❤️</div>
+            <h1 class="text-3xl font-bold">Hey Sunduri,</h1>
+            <p class="text-slate-300">I built a little world for you, just to bring a smile to your face on your special day.</p>
+        </div>
+
+        <!-- Section 2: Main Wish -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <div class="text-4xl">🎉</div>
+            <h2 class="text-2xl font-semibold text-pink-400">Happy Birthday to you!</h2>
+            <p class="text-slate-300">Another year of you making the world brighter. Your existence is a gift, and I'm so lucky to witness it.</p>
+        </div>
+
+        <!-- Section 3: Adorable Qualities -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <h2 class="text-xl font-semibold text-purple-300">A Few Things I Adore About You</h2>
+            <div class="grid gap-4 text-left">
+                <div class="bg-slate-700/40 p-4 rounded-xl border border-slate-600/50">
+                    <h3 class="font-medium text-pink-300">✨ Your Unmatched Kindness</h3>
+                    <p class="text-sm text-slate-300 mt-1">The genuine warmth you show to everyone is something truly rare and beautiful.</p>
+                </div>
+                <div class="bg-slate-700/40 p-4 rounded-xl border border-slate-600/50">
+                    <h3 class="font-medium text-pink-300">😊 That Smile</h3>
+                    <p class="text-sm text-slate-300 mt-1">It's a work of art.</p>
+                </div>
+                <div class="bg-slate-700/40 p-4 rounded-xl border border-slate-600/50">
+                    <h3 class="font-medium text-pink-300">🌟 Your Radiant Spirit</h3>
+                    <p class="text-sm text-slate-300 mt-1">Your passion for life is infectious. Being around you makes everything feel more exciting and possible.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 4: Memory -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <h2 class="text-xl font-semibold text-purple-300">That One Time...</h2>
+            <div class="overflow-hidden rounded-xl border border-slate-600 bg-slate-900/50 p-2">
+                <img alt="A special memory" src=
+                <p class="text-sm text-slate-400 mt-2">Our favorite memory.</p>
+            </div>
+            <p class="text-slate-300 text-sm">Every moment with you feels like a scene from a movie I'd watch on repeat.</p>
+        </div>
+
+        <!-- Section 5: Outro / Final Wish -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <div class="text-4xl">🎂</div>
+            <h2 class="text-2xl font-semibold text-pink-400">My Wish For You</h2>
+            <p class="text-slate-300"><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- GSAP Animation Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center p-4 overflow-x-hidden">
+
+    <!-- Background Elements / Floating Hearts Container -->
+    <div id="particles" class="absolute inset-0 pointer-events-none"></div>
+
+    <main class="max-w-xl w-full bg-slate-800/50 backdrop-blur-md border border-slate-700 rounded-2xl p-8 shadow-2xl text-center space-y-8 relative z-10">
+        
+        <!-- Section 1: Intro -->
+        <div class="space-y-4">
+            <div class="text-4xl">❤️</div>
+            <h1 class="text-3xl font-bold">Hey Beautiful,</h1>
+            <p class="text-slate-300">I built a little world for you, just to bring a smile to your face on your special day.</p>
+        </div>
+
+        <!-- Section 2: Main Wish -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <div class="text-4xl">🎉</div>
+            <h2 class="text-2xl font-semibold text-pink-400">Happy Birthday!</h2>
+            <p class="text-slate-300">Another year of you making the world brighter. Your existence is a gift, and I'm so lucky to witness it.</p>
+        </div>
+
+        <!-- Section 3: Adorable Qualities -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <h2 class="text-xl font-semibold text-purple-300">A Few Things I Adore About You</h2>
+            <div class="grid gap-4 text-left">
+                <div class="bg-slate-700/40 p-4 rounded-xl border border-slate-600/50">
+                    <h3 class="font-medium text-pink-300">✨ Your Unmatched Kindness</h3>
+                    <p class="text-sm text-slate-300 mt-1">The genuine warmth you show to everyone is something truly rare and beautiful.</p>
+                </div>
+                <div class="bg-slate-700/40 p-4 rounded-xl border border-slate-600/50">
+                    <h3 class="font-medium text-pink-300">😊 That Smile</h3>
+                    <p class="text-sm text-slate-300 mt-1">It's a work of art.</p>
+                </div>
+                <div class="bg-slate-700/40 p-4 rounded-xl border border-slate-600/50">
+                    <h3 class="font-medium text-pink-300">🌟 Your Radiant Spirit</h3>
+                    <p class="text-sm text-slate-300 mt-1">Your passion for life is infectious. Being around you makes everything feel more exciting and possible.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 4: Memory -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <h2 class="text-xl font-semibold text-purple-300">That One Time...</h2>
+            <div class="overflow-hidden rounded-xl border border-slate-600 bg-slate-900/50 p-2">
+                <img alt="A special memory" src="
+                <p class="text-sm text-slate-400 mt-2">Our favorite memory.</p>
+            </div>
+            <p class="text-slate-300 text-sm">Every moment with you feels like a scene from a movie I'd watch on repeat.</p>
+        </div>
+
+        <!-- Section 5: Outro / Final Wish -->
+        <div class="space-y-4 border-t border-slate-700 pt-6">
+            <div class="text-4xl">🎂</div>
+            <h2 class="text-2xl font-semibold text-pink-400">My Wish For You</h2>
+            <p class="text-slate-300">May the next year bring you all the love, success, and pure happiness you so rightfully deserve. May your dreams soar higher than ever.</p>
+            <div class="pt-2">
+                 <p class="text-lg font-bold text-pink-400">Happy Birthday,Heroine! ❤️</p>
+            </div>
+            <footer class="text-xs text-slate-500 pt-4">Crafted with ❤️ and code, just for you.</footer>
+        </div>
+
+    </main>
+
+</body>
+</html>.</p>
+            <div class="pt-2">
+                 <p class="text-lg font-bold text-pink-400">Happy Birthday,Heroine! ❤️</p>
+            </div>
+            <footer class="text-xs text-slate-500 pt-4">Crafted with ❤️ and code, just for you.</footer>
+        </div>
+
+    </main>
+
+</body>
+</html>
